@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_23 (Sun Microsystems Inc.)
+Debian-Java-Home: /usr/lib/jvm/default-java
+Class-Path: /usr/share/java/j3dcore.jar /usr/share/java/j3dutils.jar /us
+ r/share/java/vecmath.jar /usr/share/gpsprune/gpsprune.jar /usr/share/jav
+ a/metadata-extractor.jar
+Main-Class: tim.prune.GpsPrune
+
+
